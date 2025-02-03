@@ -8,4 +8,5 @@ public class Node<T extends Comparable<T>> {
         this.left = null;
         this.right = null;
     }
+
 }
